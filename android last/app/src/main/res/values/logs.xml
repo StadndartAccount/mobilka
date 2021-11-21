@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="users_logs">
+        <item>admin@sfedu.ru 1111</item>
+        <item>admin admin</item>
+        <item>login@sfedu.ru password</item>
+        <item>user@sfedu.ru 1234</item>
+        <item>user2@sfedu.ru pass2</item>
+        <item>user3@sfedu.ru pass3</item>
+    </string-array>
+</resources>

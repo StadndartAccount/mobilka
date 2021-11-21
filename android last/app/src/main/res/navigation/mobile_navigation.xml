@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_cities_list">
+
+    <fragment
+        android:id="@+id/nav_cities_list"
+        android:name="com.example.laba2.ui.cities_list.CitiesListFragment"
+        android:label="Список городов"
+        tools:layout="@layout/fragment_cities_list" />
+
+    <fragment
+        android:id="@+id/nav_current_city"
+        android:name="com.example.laba2.ui.current_city.CurrentCityFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_current_city" />
+
+</navigation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names_array">
+        <item>Горно-Алтайск</item>
+        <item>Алейск</item>
+        <item>Барнаул</item>
+        <item>Белокуриха</item>
+        <item>Бийск</item>
+        <item>Горняк</item>
+        <item>Заринск</item>
+        <item>Змеиногорск</item>
+        <item>Камень-на-Оби</item>
+        <item>Новоалтайск</item>
+        <item>Рубцовск</item>
+        <item>Славгород</item>
+        <item>Яровое</item>
+        <item>Белогорск</item>
+        <item>Благовещенск</item>
+        <item>Завитинск</item>
+        <item>Зея</item>
+        <item>Райчихинск</item>
+        <item>Свободный</item>
+        <item>Сковородино</item>
+        <item>Тында</item>
+        <item>Шимановск</item>
+        <item>Архангельск</item>
+        <item>Вельск</item>
+        <item>Каргополь</item>
+        <item>Коряжма</item>
+        <item>Котлас</item>
+        <item>Мезень</item>
+    </string-array>
+
+</resources>
